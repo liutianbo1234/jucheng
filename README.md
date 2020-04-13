@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # myadd
 
 ## Project setup
@@ -21,8 +21,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
+
 # tensorflow
->>>>>>> 7bec09d08ef8a6db9cb9969be69e4d3e56fc5477
+
